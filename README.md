@@ -1,6 +1,6 @@
 - COMPUTER SCIENCE ENGINEER
+- 
 -👋 Hi, I’m @MaxKasHHHH
-- 👀 I’m 
 - 🌱 I’m currently learning Ccore JAVA and web devlopment
 - 📫 2nd year student
 
