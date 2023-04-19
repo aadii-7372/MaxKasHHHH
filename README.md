@@ -1,8 +1,8 @@
 - COMPUTER SCIENCE ENGINEER
 - 
 -👋 Hi, I’m @MaxKasHHHH
-- 🌱 I’m currently learning Ccore JAVA and web devlopment
-- 📫 2nd year student
+- 🌱 I’m currently working as .NET Devloper at @ERICSSON
+- 📫 2023 graduate
 -linkedin:- linkedin.com/in/aditya-prakash-986375167
 <!---
 MaxKasHHHH/MaxKasHHHH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
