@@ -1,6 +1,6 @@
 - COMPUTER SCIENCE ENGINEER
 - 
--👋 Hi, I’m @MaxKasHHHH
+-👋 Hi, I’m @Aditya Prakash
 - 🌱 I’m currently working as .NET Devloper at @ERICSSON
 - 📫 2023 graduate
 -linkedin:- linkedin.com/in/aditya-prakash-986375167
